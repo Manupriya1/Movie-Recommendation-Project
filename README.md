@@ -21,7 +21,9 @@ Designing a Movie Recommendation System
 9. timestamp
 
 ## Logical Model
-![Movies Logical Data Model (BIMarathon 2021)](https://user-images.githubusercontent.com/69255270/135682649-992ab5b6-3631-40ad-bfee-295891ef2b34.png)
+![Physical Data Model_Movies (BIMarathon 2021)](https://user-images.githubusercontent.com/69255270/136620477-235684a7-c299-4a6a-bb65-3494c23df89d.png)
+
 
 ## Physical Model
-![Physical Data Model_Movies (BIMarathon 2021)](https://user-images.githubusercontent.com/69255270/135682643-8d5ccd0b-d039-426a-92e1-809834fcf9bf.png)
+
+![Movies Logical Data Model (BIMarathon 2021)](https://user-images.githubusercontent.com/69255270/136620508-b39ecf71-263b-47ea-8c05-91f102fa7d7a.png)
